@@ -2,9 +2,10 @@
 
 > A Vue.js project
 
+![Image text](https://github.com/mifan007/vue-progress-bar/blob/master/progressBar.gif?raw=true)
+
 ## Build Setup
 
-``` bash
 # install dependencies
 npm install
 
@@ -22,6 +23,7 @@ Return:
 drag(percent){
 	console.log(percent)
 }
+
 ##
 
-![Image text](https://github.com/mifan007/vue-progress-bar/blob/master/progressBar.gif?raw=true)
+
