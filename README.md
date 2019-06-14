@@ -22,5 +22,6 @@ Return:
 drag(percent){
 	console.log(percent)
 }
+##
 
 ![Image text](https://github.com/mifan007/vue-progress-bar/blob/master/progressBar.gif?raw=true)
